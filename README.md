@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alen20780
+- 👋 Hi, I’m Sarungbam Alen Meetei
 - 👀 I’m interested in webdev, ai/ml, cv.
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on noble pojects
