@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarungbam Alen Meetei
-- 👀 I’m interested in webdev, ai/ml, cv.
+- 👀 I’m interested in webdev, ai/ml, cv, iot.
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on noble pojects
 - 📫 How to reach me alen20780@gmail.com
