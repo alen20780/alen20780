@@ -14,7 +14,7 @@
 - 🌱 Learning **Next.js**, **TailwindCSS**, and deep-diving into **Backend APIs**  
 - 💬 Ask me about **React, JavaScript, GitHub Pages, and clean UI/UX**  
 - 📫 Reach me at: **[alen20780@gmail.com](mailto:alen20780@gmail.com)**  
-- ⚡ Fun fact: I design, debug, and deploy — sometimes all at once 💡
+- ⚡ Fun fact: I design, debug, and deploy sometimes all at once 💡
 
 ---
 
