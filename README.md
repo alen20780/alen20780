@@ -70,6 +70,22 @@
 
 ---
 
+### 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/alen20780?theme=dark&font=JetBrains%20Mono" />
+</p>
+
+---
+
 ### 🌍 Let's Connect
 
 <p align="center">
