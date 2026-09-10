@@ -20,6 +20,7 @@
 - 📫 Reach me at: **[sarungbam.alen.com@gmail.com](mailto:sarungbam.alen.meetei@gmail.com)**  
 - ⚡ Fun fact: I design, debug, and deploy sometimes all at once 💡  
 - 😭 Why does PHP exist?
+- Go enthusiasts [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)]
 
 ---
 
